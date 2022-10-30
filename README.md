@@ -2,7 +2,9 @@
 
 ### Hi there 👋 I am Sunita
 
-
-<img src="javascript.svg" />
+<div style="background-color:#F7DF1E; color:#F7DF1E;">
+<img src="javascript.svg" height="150px" width="150px" />
+  
+</div>
 
 
